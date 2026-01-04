@@ -182,28 +182,3 @@ npm run dev
   ]
 }
 ```
-
----
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo" title="React" />
-  <img width="2" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo" title="HTML5" />
-  <img width="2" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css logo" title="CSS3" />
-  <img width="2" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" title="JavaScript" />
-  <img width="2" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo" title="NodeJS" />
-  <img width="2" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo" title="Visual Studio Code" />
-  <img width="2" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo" title="Git" />
-  <img width="2" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" title="GitHub" />
-  <img width="2" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo" title="Figma" />
-</div>
-
-
-
